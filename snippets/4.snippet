@@ -1,0 +1,7 @@
+app.use(firstMiddleware, secondMiddleware);
+
+app.get('/hello', helloMiddleware);
+
+app.use(function(req, res, next) {
+  res.write('Middleware 3 \n');
+});

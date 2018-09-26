@@ -1,0 +1,16 @@
+function firstMiddleware(req, res, next) {
+  res.write('Middleware 1 \n');
+  next();
+  res.write('Middleware 1 AGAIN \n');
+  res.end();
+}
+
+function secondMiddleware(req, res, next) {
+  res.write('Middleware 2 \n');
+  next();
+  res.write('Middleware 2 AGAIN \n');
+}
+
+function helloMiddleware(req, res, next) {
+  res.write('Hello World! \n');
+}
