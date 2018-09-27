@@ -1,5 +1,5 @@
 
-# mdx-deck basic template
+# mdx-deck meetup CoR
 
 This was generated with [mdx-deck][]'s `npm init deck` command.
 
@@ -36,3 +36,17 @@ npm run image
 For more documentation see the [mdx-deck][] repo.
 
 [mdx-deck]: https://github.com/jxnblk/mdx-deck
+
+## Ressources Meetup
+
+**Design Patterns: Elements of Reusable Object-Oriented Software** de Erich Gamma, Richard Helm, Ralph Johnson et John Vlissides
+
+**Node.js Design Patterns Second Edition** de Mario Casciaro et Luciano Mammino
+
+https://sourcemaking.com/design_patterns/chain_of_responsibility
+
+https://dzone.com/articles/design-patterns-uncovered-chain-of-responsibility
+
+https://github.com/fbeline/Design-Patterns-JS
+
+https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-2.1
