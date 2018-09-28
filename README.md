@@ -1,3 +1,10 @@
+# Contexte
+
+Le support de présentation a été fait à l'aide des libs [mdx-deck][] et [CodeSurfer][] pour les zooms et scroll du code.
+
+Vous retrouverez la petite démo express middleware dans le dossier [`demo`](demo)
+
+Si vous avez des questions ou des suggestions : <alexandre.lim@abbeal.com>
 
 # mdx-deck meetup CoR
 
@@ -36,6 +43,7 @@ npm run image
 For more documentation see the [mdx-deck][] repo.
 
 [mdx-deck]: https://github.com/jxnblk/mdx-deck
+[CodeSurfer]: https://github.com/pomber/code-surfer
 
 ## Ressources Meetup
 
